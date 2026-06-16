@@ -1,0 +1,6 @@
+{
+  "name": "MediFlow",
+  "description": "Multi-tenant healthcare SaaS mobile operations dashboard. Features multi-tenant isolation, interactive Razorpay simulated renew logic, RBAC privilege sandbox, and scoped DB calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
